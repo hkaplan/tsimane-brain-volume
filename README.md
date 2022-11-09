@@ -1,3 +1,3 @@
-# This repository contains the code for reproducing results on the paper " 
+# Tsimane Brain Volume
 
-## Stata Code for data transformation and statistical models
+This repository contains the code for reproducing results in **Brain volume, energy balance and cardiovascular health in two non-industrial South American populations** currently under review by PNAS
